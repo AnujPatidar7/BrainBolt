@@ -2,6 +2,10 @@
 
 BrainBolt is a full-stack adaptive quiz platform that dynamically adjusts question difficulty based on user performance. The system is built with a secure backend architecture to prevent cheating, ensure transactional consistency, and maintain reliable leaderboard updates.
 
+
+https://github.com/user-attachments/assets/b1f465af-b731-4fcb-bdeb-f9e9a078dad8
+
+
 ---
 
 #  System Architecture
